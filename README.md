@@ -2,7 +2,7 @@
 
 ## My name is Keerthiha..
 
-###### I am a Junior QA Software Engineer with one year of experience in Manual testing. Currently pursuing Automation testing. 
+#### I am a Junior QA Software Engineer with one year of experience in Manual testing. Currently pursuing Automation testing. 
 
 ### Tech Stacks
 
