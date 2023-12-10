@@ -1,12 +1,8 @@
 ### Hello! 👋
 
-## A little about me..
-
-#### My name is Keerthiha. I am a Junior QA Software Engineer. Currently pursuing Automation testing. 
-#### Happy learning!
+#### My name is Keerthiha. I am a tech savvy.. keeping myself upbreast of new technologies
 
 ### Tech Stacks
-
 * Programming language: Java, Basics of Python
 * Web Development: Html, Css, Xml
 * Automation: Selenium WebDriver, TestNg 
